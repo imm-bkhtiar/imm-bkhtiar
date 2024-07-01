@@ -8,10 +8,11 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/imm.bkhtiar/)  
 
-<br>
 ## Skils
 * ⚛ React
 * 💻 HTML - CSS - JS
+
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imm-bkhtiar&show_icons=true&theme=radical)
 <!-- <p align="left">
