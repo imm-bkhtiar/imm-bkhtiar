@@ -7,6 +7,7 @@ I'm a fresh graduate who used to be uninterested in the world of technology. My 
 Technology has become my ambition, and I am determined to pursue a career in this field with enthusiasm. This journey not only changed my view of technology but also opened up opportunities and potential that I had never imagined before. I'm ready to face the challenge and keep learning so that I can make a meaningful contribution to the world of technology.
 
 <p align ="left" > 
-    <a href="https://www.instagram.com/imm.bkhtiar/"><img width="32px" alt="Instagram" title="Instagram" src="https://www.svgrepo.com/svg/521711/instagram"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+        <img alt="Instagram" title="Instagram" src="https://freshidea.com/jonah/app/instagram-svgrepo-com"/></a>
+      <a href="https://www.instagram.com/imm.bkhtiar/">
 </p>
