@@ -8,9 +8,10 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/imm.bkhtiar/)  
 
-## Skils
+## Skils & Experience
 * ⚛ React
 * 💻 HTML - CSS - JS
+* ⚙ Node Js
 
 <br/>
 
