@@ -8,6 +8,6 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 
 <p align ="left" > 
     <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-        <img alt="Instagram" title="Instagram" src="https://freshidea.com/jonah/app/instagram-svgrepo-com"/></a>
+        <img alt="Instagram" title="Instagram" src="https://staging.shields.io/badge/instagram-svgrepo-com"/></a>
       <a href="https://www.instagram.com/imm.bkhtiar/">
 </p>
