@@ -11,8 +11,8 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 <br>
 
 ## Skils
-  ⚛ React
-  💻 HTML - CSS - JS
+* ⚛ React
+* 💻 HTML - CSS - JS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imm-bkhtiar&show_icons=true&theme=radical)
 <!-- <p align="left">
