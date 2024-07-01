@@ -6,6 +6,7 @@ I'm a fresh graduate who used to be uninterested in the world of technology. My 
 
 Technology has become my ambition, and I am determined to pursue a career in this field with enthusiasm. This journey not only changed my view of technology but also opened up opportunities and potential that I had never imagined before. I'm ready to face the challenge and keep learning so that I can make a meaningful contribution to the world of technology.
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imm-bkhtiar&show_icons=true&theme=radical)
 <!-- <p align="left">
   <a href="https://www.instagram.com/imm.bkhtiar/">
