@@ -8,7 +8,7 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 
 <p align="center">
   <a href="https://www.instagram.com/imm.bkhtiar/">
-    <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/instagram-svgrepo-com
+    <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/instagram/instagram-svgrepo-com
 "/>
   </a>
 </p>
