@@ -8,7 +8,7 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 
 <p align="center">
   <a href="https://www.instagram.com/imm.bkhtiar/">
-    <img alt="Instagram" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="Instagram" title="Follow My Instaram" src="https://freshidea.com/jonah/app/instagram-svgrepo.com"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
