@@ -9,7 +9,6 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 [<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/imm.bkhtiar/)  
 
 ## Skils & Experience
-* ⚛ React
 * 💻 HTML - CSS - JS
 * ⚙ Node Js
 
