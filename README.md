@@ -14,7 +14,8 @@ Technology has become my ambition, and I am determined to pursue a career in thi
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imm-bkhtiar&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imm-bkhtiar&show_icons=true&theme=radical) -->
+
 <!-- <p align="left">
   <a href="https://www.instagram.com/imm.bkhtiar/">
     <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/instagram/instagram-svgrepo-com"/>
