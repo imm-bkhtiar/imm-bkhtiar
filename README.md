@@ -4,7 +4,7 @@
 
 Hai, Saya seorang web developer, yang sementara hanya bisa membuat web statis, dan juga hobi fotografi dan videografi, hanya sebatas hobi ya, tetapi bukan berarti saya tidak akan berkembang nantikan saya satu tahun kedepan
 
-[<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/imm.bkhtiar/)  
+[<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='30' style="fill: #ffffff;">](https://www.instagram.com/imm.bkhtiar/)  
 
 ## Skils & Experience
 * 💻 HTML - CSS - JS
